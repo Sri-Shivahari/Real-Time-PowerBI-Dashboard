@@ -31,4 +31,4 @@ This project demonstrates how to create a real-time business intelligence dashbo
 - Card: Most selected technology
 
 ## 👨‍💻 Author
-*Your Name* – [LinkedIn](your-link) | [Portfolio](your-link)
+Sri Shivahari Kannan – www.linkedin.com/in/srishivahari
